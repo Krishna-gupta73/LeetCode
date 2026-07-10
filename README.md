@@ -73,6 +73,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Krishna-gupta73/LeetCode/tree/master/0001-two-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Krishna-gupta73/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -82,4 +83,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Krishna-gupta73/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Krishna-gupta73/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
