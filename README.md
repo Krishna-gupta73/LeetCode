@@ -81,6 +81,7 @@ Happy Coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-gupta73/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Krishna-gupta73/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Krishna-gupta73/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0904-fruit-into-baskets](https://github.com/Krishna-gupta73/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna-gupta73/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Krishna-gupta73/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -101,6 +102,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krishna-gupta73/LeetCode/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/Krishna-gupta73/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Happy Coding! 🚀
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/Krishna-gupta73/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna-gupta73/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
