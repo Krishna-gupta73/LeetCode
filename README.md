@@ -80,6 +80,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/Krishna-gupta73/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-gupta73/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Krishna-gupta73/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Krishna-gupta73/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Krishna-gupta73/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Krishna-gupta73/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -93,6 +94,7 @@ Happy Coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Krishna-gupta73/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-gupta73/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Krishna-gupta73/LeetCode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Krishna-gupta73/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -139,6 +141,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Krishna-gupta73/LeetCode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
