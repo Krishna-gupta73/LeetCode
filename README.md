@@ -79,6 +79,7 @@ Happy Coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Krishna-gupta73/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-gupta73/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Krishna-gupta73/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Krishna-gupta73/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Krishna-gupta73/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Krishna-gupta73/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -103,6 +104,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Krishna-gupta73/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishna-gupta73/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Krishna-gupta73/LeetCode/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/Krishna-gupta73/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
@@ -114,6 +116,7 @@ Happy Coding! 🚀
 | ------- |
 | [0015-3sum](https://github.com/Krishna-gupta73/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Krishna-gupta73/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Krishna-gupta73/LeetCode/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -136,4 +139,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Krishna-gupta73/LeetCode/tree/master/0007-reverse-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Krishna-gupta73/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Krishna-gupta73/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
