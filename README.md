@@ -148,6 +148,7 @@ Happy Coding! 🚀
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-gupta73/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Krishna-gupta73/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Krishna-gupta73/LeetCode/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/Krishna-gupta73/LeetCode/tree/master/0796-rotate-string) |
 ## Math
 |  |
 | ------- |
@@ -162,4 +163,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krishna-gupta73/LeetCode/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Krishna-gupta73/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
