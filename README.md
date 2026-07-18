@@ -108,6 +108,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Krishna-gupta73/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishna-gupta73/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Krishna-gupta73/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Krishna-gupta73/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Krishna-gupta73/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Krishna-gupta73/LeetCode/tree/master/0242-valid-anagram) |
@@ -142,6 +143,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishna-gupta73/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Krishna-gupta73/LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Krishna-gupta73/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-gupta73/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Krishna-gupta73/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -150,6 +152,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Krishna-gupta73/LeetCode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Krishna-gupta73/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
