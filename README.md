@@ -77,6 +77,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/Krishna-gupta73/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Krishna-gupta73/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Krishna-gupta73/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Krishna-gupta73/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-gupta73/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Krishna-gupta73/LeetCode/tree/master/0169-majority-element) |
@@ -123,6 +124,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Krishna-gupta73/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-gupta73/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Krishna-gupta73/LeetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna-gupta73/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
