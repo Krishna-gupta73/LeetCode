@@ -128,6 +128,7 @@ Happy Coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Krishna-gupta73/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-gupta73/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Krishna-gupta73/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Krishna-gupta73/LeetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna-gupta73/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
@@ -187,4 +188,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Krishna-gupta73/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Krishna-gupta73/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
