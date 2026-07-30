@@ -138,6 +138,7 @@ Happy Coding! 🚀
 | [0162-find-peak-element](https://github.com/Krishna-gupta73/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-gupta73/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Krishna-gupta73/LeetCode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Krishna-gupta73/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Krishna-gupta73/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Krishna-gupta73/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -184,6 +185,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/Krishna-gupta73/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Krishna-gupta73/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/Krishna-gupta73/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
