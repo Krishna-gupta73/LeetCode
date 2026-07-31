@@ -139,6 +139,7 @@ Happy Coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-gupta73/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Krishna-gupta73/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Krishna-gupta73/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Krishna-gupta73/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Krishna-gupta73/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Krishna-gupta73/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -206,4 +207,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Krishna-gupta73/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Krishna-gupta73/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
