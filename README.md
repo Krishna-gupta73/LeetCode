@@ -58,7 +58,7 @@ After completing Arrays, I plan to continue with:
 
 ## 🔗 Connect With Me
 
-- GitHub: https://github.com/Krishna-gupta73
+- LeetCode: https://leetcode.com/u/krishna_gupta73/
 - LinkedIn: https://www.linkedin.com/in/krishna-gupta73/
 - GeeksforGeeks: https://www.geeksforgeeks.org/profile/krishnaguptaaa
 
