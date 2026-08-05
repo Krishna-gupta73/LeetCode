@@ -175,6 +175,7 @@ Happy Coding! 🚀
 | [0643-maximum-average-subarray-i](https://github.com/Krishna-gupta73/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Krishna-gupta73/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna-gupta73/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Krishna-gupta73/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -193,6 +194,7 @@ Happy Coding! 🚀
 | [0205-isomorphic-strings](https://github.com/Krishna-gupta73/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Krishna-gupta73/LeetCode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Krishna-gupta73/LeetCode/tree/master/0796-rotate-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Krishna-gupta73/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Math
 |  |
 | ------- |
