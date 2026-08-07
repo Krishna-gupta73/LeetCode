@@ -89,6 +89,7 @@ Happy Coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-gupta73/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Krishna-gupta73/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Krishna-gupta73/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Krishna-gupta73/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Krishna-gupta73/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Krishna-gupta73/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -148,6 +149,7 @@ Happy Coding! 🚀
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Krishna-gupta73/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Krishna-gupta73/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-gupta73/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Krishna-gupta73/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Krishna-gupta73/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Krishna-gupta73/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Krishna-gupta73/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -173,6 +175,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishna-gupta73/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Krishna-gupta73/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Krishna-gupta73/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Krishna-gupta73/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna-gupta73/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -182,6 +185,7 @@ Happy Coding! 🚀
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Krishna-gupta73/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Krishna-gupta73/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-gupta73/LeetCode/tree/master/0560-subarray-sum-equals-k) |
