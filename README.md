@@ -206,6 +206,7 @@ Happy Coding! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishna-gupta73/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Krishna-gupta73/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Krishna-gupta73/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Krishna-gupta73/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-gupta73/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Krishna-gupta73/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -249,4 +250,12 @@ Happy Coding! 🚀
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Krishna-gupta73/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Krishna-gupta73/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Krishna-gupta73/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Krishna-gupta73/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
