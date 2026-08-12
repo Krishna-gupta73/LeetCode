@@ -224,6 +224,7 @@ Happy Coding! 🚀
 | [0069-sqrtx](https://github.com/Krishna-gupta73/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Krishna-gupta73/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/Krishna-gupta73/LeetCode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -259,4 +260,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishna-gupta73/LeetCode/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Krishna-gupta73/LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Krishna-gupta73/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Krishna-gupta73/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
