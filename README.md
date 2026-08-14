@@ -92,6 +92,7 @@ Happy Coding! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna-gupta73/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Krishna-gupta73/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Krishna-gupta73/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Krishna-gupta73/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Krishna-gupta73/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Krishna-gupta73/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Krishna-gupta73/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -140,6 +141,7 @@ Happy Coding! 🚀
 | [0205-isomorphic-strings](https://github.com/Krishna-gupta73/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Krishna-gupta73/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Krishna-gupta73/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Krishna-gupta73/LeetCode/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-gupta73/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Krishna-gupta73/LeetCode/tree/master/0567-permutation-in-string) |
@@ -159,6 +161,7 @@ Happy Coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-gupta73/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna-gupta73/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Krishna-gupta73/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Krishna-gupta73/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Krishna-gupta73/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Krishna-gupta73/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Krishna-gupta73/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
@@ -175,6 +178,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/Krishna-gupta73/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Krishna-gupta73/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Krishna-gupta73/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Krishna-gupta73/LeetCode/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Krishna-gupta73/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Greedy
 |  |
@@ -226,6 +230,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/Krishna-gupta73/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Krishna-gupta73/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Krishna-gupta73/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Krishna-gupta73/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Krishna-gupta73/LeetCode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
@@ -275,4 +280,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Krishna-gupta73/LeetCode/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Krishna-gupta73/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
