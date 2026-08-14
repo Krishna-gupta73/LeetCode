@@ -108,6 +108,7 @@ Happy Coding! 🚀
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna-gupta73/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Krishna-gupta73/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Krishna-gupta73/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krishna-gupta73/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/Krishna-gupta73/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Krishna-gupta73/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -174,6 +175,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/Krishna-gupta73/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Krishna-gupta73/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Krishna-gupta73/LeetCode/tree/master/0242-valid-anagram) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Krishna-gupta73/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Greedy
 |  |
 | ------- |
