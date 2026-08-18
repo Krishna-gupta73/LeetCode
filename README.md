@@ -286,4 +286,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Krishna-gupta73/LeetCode/tree/master/0268-missing-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Krishna-gupta73/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Krishna-gupta73/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
